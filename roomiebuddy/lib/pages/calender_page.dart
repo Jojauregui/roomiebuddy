@@ -23,7 +23,7 @@ class _CalenderPageState extends State<CalenderPage> {
     return Scaffold(
       appBar: AppBar(
         title: const Text('Task Calendar'),
-        backgroundColor: Colors.lightBlue,
+        backgroundColor: Colors.greenAccent,
       ),
       body: Padding(
         padding: const EdgeInsets.all(16.0),
@@ -62,11 +62,11 @@ class _CalenderPageState extends State<CalenderPage> {
                 outsideDaysVisible: false,
                 weekendTextStyle: const TextStyle(color: Colors.black),
                 selectedDecoration: const BoxDecoration(
-                  color: Colors.lightBlue,
+                  color: Colors.green,
                   shape: BoxShape.circle,
                 ),
                 todayDecoration: BoxDecoration(
-                  color: Colors.lightBlue.withOpacity(0.5),
+                  color: Colors.green.shade900.withOpacity(0.5),
                   shape: BoxShape.circle,
                 ),
               ),
