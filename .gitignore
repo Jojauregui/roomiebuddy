@@ -3,3 +3,11 @@
 .env/
 .env/*
 
+# ignore data db:
+data/data.db
+
+# ignore .mypy_cache
+.mypy_cache
+
+# ignore __pycache__
+backend/__pycache__
