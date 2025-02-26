@@ -1,0 +1,755 @@
+    1  sudo apt update && sudo apt upgrade y
+    2  sudo apt update && sudo apt upgrade -y
+    3  cd .ssh
+    4  mkdir cd .ssh
+    5  ls
+    6  rmdir cd
+    7  cd .ssh
+    8  ssh-keygen
+    9  ls
+   10  cp github github.key
+   11  ls
+   12  rm github
+   13  cat github.pub
+   14  rm github.key github.pub
+   15  ssh-keygen -t ed22519 -C "latioslatias2002@gmail.com"
+   16  ssh-keygen -t ed25519 -C "latioslatias2002@gmail.com"
+   17  ls
+   18  mv github github.key
+   19  ls
+   20  cat github.pub
+   21  touch config
+   22  nano config
+   23  ssh github.com
+   24  ls
+   25  nano config
+   26  ssh github.com
+   27  ssh git@github.com
+   28  mkdir CSCI430
+   29  mkdir CSCI515
+   30  rmdir CSCI430
+   31  rmdir CSCI515
+   32  cd ../
+   33  mkdir CSCI515
+   34  rmdir CSCI430
+   35  mkdir CSCI430
+   36  cd .ssh
+   37  ssh-keygen -t ed25519 -C "latioslatias2002@gmail.com"
+   38  ls
+   39  mv gitlab gitlab.key
+   40  ls
+   41  cat gitlab.pub
+   42  nano config
+   43  ssh git@gitlab.com
+   44  cd ../exit
+   45  cd ../
+   46  code .
+   47  curl -s https://ohmyposh.dev/install.sh | bash -s
+   48  sudo apt install unzip
+   49  sudo apt install zip
+   50  curl -s https://ohmyposh.dev/install.sh | bash -s
+   51  export PATH=$PATH:/home/ubuntu/.local/bin
+   52  nano /.bashrc
+   53  nano /.profile
+   54  nano ~/.profile
+   55  nano ~/.bashrc
+   56  . ~/.profil
+   57  . ~/.profile
+   58  whereis oh-my-posh
+   59  nano ~/.bashrc
+   60  . ~/.profile
+   61  nano ~/.bashrc
+   62  . ~/.profile
+   63  nano ~/.bashrc
+   64  . ~/.profile
+   65  sudo apt install freeglut3-dev
+   66  sudo apt install valgrind
+   67  cd CSCI515
+   68  wget https://ecc-web2.csuchico.edu/~tagibson/515/gpl_sample_games.tar
+   69  wget https://ecc-web2.csuchico.edu/~tagibson/515/csci515_files.tar
+   70  wget https://ecc-web2.csuchico.edu/~tagibson/515/prebuilt_binaries.tar
+   71  ls
+   72  tar xv < csci515_files.tar 
+   73  ls
+   74  tar xv < gpl_sample_games.tar 
+   75  tar xv ls
+   76  ls
+   77  tar xv < prebuilt_binaries
+   78  tar xv < prebuilt_binaries.tar 
+   79  ls
+   80  mkdir personal
+   81  ./prebuilt_binaries/gpl_x86_64 ./personal/Hugo_Tanaka_a02.gpl 
+   82  sudo apt install freeglut3-dev
+   83  sudo apt install freeglut3
+   84  sudo apt update && sudo apt upgrade -y
+   85  sudo apt update && sudo apt full-upgrade -y
+   86  ./prebuilt_binaries/gpl_x86_64 ./personal/Hugo_Tanaka_a02.gpl 
+   87  /prebuilt_binaries/gpl_x86_64 /personal/Hugo_Tanaka_a02.gpl 
+   88  /prebuilt_binaries/gpl_x86_64
+   89  ./prebuilt_binaries/gpl_x86_64
+   90  cd CSCI515
+   91  ./prebuilt_binaries/gpl_x86_64 ./personal/Hugo_Tanaka_a02.gpl 
+   92  sudo apt find libglut.so.3
+   93  sudo apt search libglut.so.3
+   94  sudo apt-get install freeglut3
+   95  sudo add-apt-repository universe
+   96  sudo apt update
+   97  sudo apt install freeglut3-dev
+   98  sudo apt install freeglut3
+   99  freeglut3-dev
+  100  sudo apt install freeglut3-dev
+  101  ./prebuilt_binaries/gpl_x86_64 ./personal/Hugo_Tanaka_a02.gpl 
+  102  cd CSCI515
+  103  ./prebuilt_binaries/gpl_x86_64 ./personal/Hugo_Tanaka_a02.gpl 
+  104  sudo apt install fastfetch
+  105  sudo add-apt-repository ppa:zhangsongcui3371/fastfetch
+  106  sudo apt update
+  107  sudo apt install fastfetch
+  108  fastfetch
+  109  ./prebuilt_binaries/gpl_x86_64 ./personal/Hugo_Tanaka_a02.gpl 
+  110  cd prebuilt_binaries/
+  111  ls
+  112  ./gpl_aarch64
+  113  ./gpl_x86_64 
+  114  cd ../
+  115  sudo apt install freeglut3-dev
+  116  sudo apt update && sudo apt upgrade-y
+  117  sudo apt update && sudo apt upgrade -y
+  118  ./prebuilt_binaries/gpl_x86_64 ./personal/Hugo_Tanaka_a02.gpl 
+  119  sudo apt install freeglut3-dev
+  120  g++ --version --verbose
+  121  sudo apt install build-essentials
+  122  sudo apt install build-essential
+  123  ./prebuilt_binaries/gpl_x86_64 ./personal/Hugo_Tanaka_a02.gpl 
+  124  g++ --version --verbose
+  125  ld --help
+  126  ld --verbose
+  127  sudo apt install 
+  128  sudo apt install opengl
+  129  sudo apt-get install cmake pkg-config
+  130  sudo apt-get install mesa-utils libglu1-mesa-dev freeglut3-dev mesa-common-dev
+  131  sudo apt-get install libglew-dev libglfw3-dev libglm-dev
+  132  sudo apt-get install libao-dev libmpg123-dev
+  133  ./prebuilt_binaries/gpl_x86_64 ./personal/Hugo_Tanaka_a02.gpl 
+  134  cd CSCI515
+  135  ./prebuilt_binaries/gpl_x86_64 ./personal/Hugo_Tanaka_a02.gpl 
+  136  cd ../
+  137  cd /usr/local/lib/
+  138  git clone https://github.com/glfw/glfw.git
+  139  cd glfw
+  140  cmake .
+  141  make
+  142  sudo make install
+  143  cd ../
+  144  cd /usr/local/lib/
+  145  git clone https://github.com/glfw/glfw.git
+  146  cd glfw
+  147  cmake .
+  148  make
+  149  sudo make install
+  150  ls
+  151  git clone https://github.com/glfw/glfw.git
+  152  cd ~
+  153  sudo apt-get install freeglut3
+  154  sudo apt-get install freeglut3-dev
+  155  clear
+  156  sudo apt autoremove
+  157  code .
+  158  cd CSCI515
+  159  ./prebuilt_binaries/gpl_x86_64 ./personal/Hugo_Tanaka_a02.gpl 
+  160  sudo apt install libglut
+  161  sudo apt install libglut.so
+  162  sudo apt install libglut.so.3
+  163  sudo apt-cache search glut
+  164  sudo apt-get install libxmu-dev libxi-dev
+  165  ./prebuilt_binaries/gpl_x86_64 ./personal/Hugo_Tanaka_a02.gpl 
+  166  sudo apt install firefox
+  167  sudo apt-get install mesa-utils
+  168  firefox
+  169  sudo apt-get install freeglut3-dev
+  170  export LD_LIBRARY_PATH=/usr/local/lib
+  171  ./start
+  172  LD_LIBRARY_PATH=/usr/lib/libglut.so.3 /opt/fieldrunnners/Fieldrunners
+  173  LD_LIBRARY_PATH=/usr/lib/libglut.so.3
+  174  ./prebuilt_binaries/gpl_x86_64 ./personal/Hugo_Tanaka_a02.gpl 
+  175  cd CSCI515
+  176  ./prebuilt_binaries/gpl_x86_64 ./personal/Hugo_Tanaka_a02.gpl 
+  177  whereis libglut.so.3
+  178  sudo apt remove freeglut3-dev
+  179  sudo apt install freeglut3-dev
+  180  whereis freeglut3-dev
+  181  whereis freeglut3
+  182  cd ../
+  183  cd CSCI430
+  184  git clone git@github.com:ChicoState/cpp-container.git
+  185  cd cpp-container
+  186  docker build -t cpp-container .
+  187  sudo apt install freegult3-dev
+  188  sudo apt install freeglut3-dev
+  189  sudo apt remove freeglut3-dev
+  190  freeglut3
+  191  ./prebuilt_binaries/gpl_x86_64 ./personal/Hugo_Tanaka_a02.gpl 
+  192  cd CSCI515
+  193  ./prebuilt_binaries/gpl_x86_64 ./personal/Hugo_Tanaka_a02.gpl 
+  194  sudo add-apt-repository ppa:kisak/kisak-mesa
+  195  sudo apt update
+  196  sudo apt upgrade
+  197  ./prebuilt_binaries/gpl_x86_64 ./personal/Hugo_Tanaka_a02.gpl 
+  198  cd CSCI515
+  199  ./prebuilt_binaries/gpl_x86_64 ./personal/Hugo_Tanaka_a02.gpl 
+  200  exit
+  201  cd CSCI430
+  202  ls
+  203  git pull https://github.com/AlphaIru/MyFirstExample.git
+  204  git clone  https://github.com/AlphaIru/MyFirstExample.git
+  205  ls
+  206  cd MyFirstExample/
+  207  ls
+  208  clear
+  209  code .
+  210  git log
+  211  git status
+  212  cd ../
+  213  cd CSCi515
+  214  cd CSCI515
+  215  ./prebuilt_binaries/gpl_x86_64 ./personal/Hugo_Tanaka_a02.gpl 
+  216  cd CSCI430/MyFirstExample/
+  217  ls
+  218  code /
+  219  code .
+  220  git remote add upstream git@github.com:ChicoState/MyFirstExample.git
+  221  git remote -v
+  222  git pull upstream main
+  223  git mergetool
+  224  git help config
+  225  git config pull.rebase false
+  226  git pull upstream main
+  227  cat /home/ubuntu/.ssh/config
+  228  git add /
+  229  git add .
+  230  git commit -m "Fixed Div by Zero Error, Fixes#61"
+  231  git config --global alphairu.email "latioslatias2002@gmail.com"
+  232  git config --global alphairu.name "Airun"
+  233  git commit -m "Fixed Div by Zero Error, Fixes#61"
+  234  git config --global user.name "Airun"
+  235  git config --global user.email "latioslatias2002@gmail.com"
+  236  git commit -m "Fixed Div by Zero Error, Fixes#61"
+  237  git push
+  238  git add .
+  239  git commit -m "Fixed Div By Zero Error, Fixes #61"
+  240  git push origin main
+  241  git clone https://github.com/CSUChico-CSCI440
+  242  git clone https://github.com/CSUChico-CSCI440/CSCI440-F24-Hugo-Tanaka/
+  243  cd glut
+  244  ls
+  245  cd ../
+  246  rm -rf glut/
+  247  ls
+  248  cd snap/
+  249  ls
+  250  firefox
+  251  sudo apt remove firefox
+  252  ls
+  253  firefox
+  254  ./firefox
+  255  ls
+  256  cd firefox/
+  257  ls
+  258  cd ../
+  259  ls
+  260  rm -rf snap/
+  261  ls
+  262  cd CSCI430
+  263  ls
+  264  cd SETeams/
+  265  code .
+  266  git pull origin main
+  267  cat RoomieBuddy/md
+  268  cat RoomieBuddy.md
+  269  ls
+  270  cat teams/RoomieBuddy.md
+  271  git pull origin main
+  272  cat teams/RoomieBuddy.md
+  273  git pull origin main
+  274  exit
+  275  git pull 
+  276  git add .
+  277  git commit -m "Added my name"
+  278  git push
+  279  git pull origin main
+  280  code .
+  281  git clone git@github.com:AlphaIru/CSCI515.git
+  282  git add .
+  283  cd  CSCI515
+  284  git add .
+  285  git commit -m "Assignment 1 start
+  286  "
+  287  git push
+  288  ls
+  289  cd CSCI430
+  290  ls
+  291  cd cpp-container/
+  292  ls
+  293  cat Dockerfile 
+  294  docker
+  295  docker build
+  296  docker run
+  297  docker build -t cpp-container .
+  298  docker run -it cpp-container
+  299  ls
+  300  docker run -it cpp-container
+  301  docker run -it cpp-container sh
+  302  nano ../../.airun.omp.json 
+  303  ls
+  304  clear
+  305  fastfetch
+  306  exit
+  307  ls
+  308  cd CSCI515
+  309  ls
+  310  cd exercises/
+  311  ls
+  312  mkdir 2_11_25
+  313  wget https://ecc-web2.csuchico.edu/~tagibson/inclass/515_s25/20250206/pointer_fun.cpp
+  314  wget https://ecc-web2.csuchico.edu/~tagibson/inclass/515_s25/20250206/bison_flex_layout.pdf
+  315  wget https://ecc-web2.csuchico.edu/~tagibson/inclass/515_s25/20250206/unions.cpp
+  316  wget https://ecc-web2.csuchico.edu/~tagibson/inclass/515_s25/20250206/bison_flex_layout.umd3
+  317  wget https://ecc-web2.csuchico.edu/~tagibson/inclass/515_s25/20250206/first.y
+  318  wget https://ecc-web2.csuchico.edu/~tagibson/inclass/515_s25/20250206/first.l
+  319  wget https://ecc-web2.csuchico.edu/~tagibson/inclass/515_s25/20250206/empty.cpp
+  320  ls
+  321  mv pointer_fun.cpp 2_11_25/
+  322  ls
+  323  mv bison_flex_layout.umd3 2_11_25/
+  324  ls
+  325  mv empty.cpp 2_11_25/
+  326  mv first.y 2_11_25/
+  327  ls
+  328  mv bison_flex_layout.pdf 2_11_25/
+  329  ls
+  330  ls 2_11_25/
+  331  mv first.l 2_11_25/
+  332  mv unions.cpp 2_11_25/
+  333  ls
+  334  mkdir 1_30_25
+  335  mv 1_30_25 1_30_25.out
+  336  ls
+  337  mkdir 1_30_25
+  338  mv 1_30_25.out 1_30_25
+  339  ls
+  340  mv 1_30_25.l 1_30_25
+  341  mv lex.yy.c 1_30_25/
+  342  ls
+  343  cd 2_11_25/
+  344  ls
+  345  clear
+  346  ls
+  347  sex
+  348  sexy
+  349  clear
+  350  sudo apt update && sudo apt upgrade -y
+  351  clear
+  352  ls
+  353  cd ../
+  354  ;s
+  355  ls
+  356  cd ../
+  357  ls
+  358  mv assignment1/ p1/
+  359  ls
+  360  cd p1
+  361  ls
+  362  cd ../
+  363  cd exercises/
+  364  ls
+  365  cd 2_11_25/
+  366  clear
+  367  ls
+  368  cd CSCI515/exercises/2_11_25/
+  369  wget https://canvas.csuchico.edu/courses/38073/files/7587426?wrap=1
+  370  ;s
+  371  ls
+  372  rm '7587426?wrap=1' 
+  373  wget https://canvas.csuchico.edu/courses/38073/files/7587426/download?download_frd=1
+  374  ls
+  375  rm download\?download_frd\=1 
+  376  wget https://canvas.csuchico.edu/courses/38073/files/7587426?wrap=1
+  377  ls
+  378  tar x shift_reduce_problems.tar
+  379  tar xv shift_reduce_problems.tar
+  380  tar xv -f  shift_reduce_problems.tar
+  381  ls
+  382  cat add_and_mult.
+  383  cat add_and_mult.l
+  384  ls
+  385  cat shift_reduce_start01.txt 
+  386  cat add_and_mult.l
+  387  flex
+  388  flex add_and_mult.l && bison -d add_and_mult.y && g++ -std=c++20 *.c
+  389  sudo apt install bison
+  390  flex add_and_mult.l && bison -d add_and_mult.y && g++ -std=c++20 *.c
+  391  cat add_and_mult.y
+  392  nano add_and_mult.y
+  393  flex add_and_mult.l && bison -d add_and_mult.y && g++ -std=c++20 *.c
+  394  ls
+  395  echo "3+4" | a.out
+  396  echo "3+4" | ./a.out
+  397  flex add_and_mult.l && bison -d add_and_mult.y && g++ -std=c++20 *.c
+  398  ls
+  399  cd CSCI515/exercises/2_11_25/
+  400  nano add_and_mult.y
+  401  ls
+  402  nano add_and_mult.y
+  403  flex add_and_mult.l && bison -d add_and_mult.y && g++ -std=c++20 *.c
+  404  echo "3+4*5" | ./a.out 
+  405  echo "pi*3+4*5" | ./a.out 
+  406  nano add_and_mult.
+  407  nano add_and_mult.y
+  408  nano add_and_mult.l
+  409  nano add_and_mult.y
+  410  nano add_and_mult.l
+  411  nano add_and_mult.y
+  412  flex add_and_mult.l && bison -d add_and_mult.y && g++ -std=c++20 *.c
+  413  nano add_and_mult.y
+  414  flex add_and_mult.l && bison -d add_and_mult.y && g++ -std=c++20 *.c
+  415  nano add_and_mult.y
+  416  flex add_and_mult.l && bison -d add_and_mult.y && g++ -std=c++20 *.c
+  417  echo "pi*3+4*5" | ./a.out 
+  418  nano add_and_mult.y
+  419  nano add_and_mult.l
+  420  nano add_and_mult.y
+  421  flex add_and_mult.l && bison -d add_and_mult.y && g++ -std=c++20 *.c
+  422  echo "pi*3+4*5" | ./a.out 
+  423  nano add_and_mult.y
+  424  nano add_and_mult.l
+  425  nano add_and_mult.y
+  426  nano add_and_mult.l
+  427  nano add_and_mult.y
+  428  flex add_and_mult.l && bison -d add_and_mult.y && g++ -std=c++20 *.c
+  429  echo "pi*3+4*5" | ./a.out 
+  430  nano add_and_mult.l
+  431  cat add_and_mult.tab.h
+  432  ls
+  433  nano add_and_mult.l
+  434  nano add_and_mult.y
+  435  flex add_and_mult.l && bison -d add_and_mult.y && g++ -std=c++20 *.c
+  436  nano add_and_mult.y
+  437  flex add_and_mult.l && bison -d add_and_mult.y && g++ -std=c++20 *.c
+  438  nano add_and_mult.l
+  439  flex add_and_mult.l && bison -d add_and_mult.y && g++ -std=c++20 *.c
+  440  nano add_and_mult.l
+  441  flex add_and_mult.l && bison -d add_and_mult.y && g++ -std=c++20 *.c
+  442  echo "pi*3+4*5" | ./a.out 
+  443  nano add_and_mult.y
+  444  flex add_and_mult.l && bison -d add_and_mult.y && g++ -std=c++20 *.c
+  445  nano add_and_mult.y
+  446  flex add_and_mult.l && bison -d add_and_mult.y && g++ -std=c++20 *.c
+  447  echo "pi*3+4*5" | ./a.out 
+  448  exit
+  449  cd CSCI430/
+  450  ls
+  451  cd cpp-container/
+  452  docker un -it cpp-container
+  453  docker run -it cpp-container
+  454  ls
+  455  fastfetch
+  456  clear
+  457  fastfetch
+  458  ls 
+  459  cat Dockerfile 
+  460  docker run -it cpp-container sh
+  461  git add .
+  462  git stash
+  463  git checkout -b "Hugo"
+  464  git checkout -b "hugo"
+  465  git checkout
+  466  git checkout -l
+  467  git add .
+  468  git commit -m "added .gitignore file"
+  469  git push
+  470  git push --set-upstream origin hugo
+  471  cd CSCI430
+  472  ls
+  473  git clone git@github.com:ChicoState/roomiebuddy.git
+  474  code .
+  475  cd roomiebuddy/
+  476  code .
+  477  cd ../
+  478  ls
+  479  cd cpp-container/
+  480  cat Docker
+  481  cat Dockerfile 
+  482  sudo apt install pytho
+  483  sudo apt install python
+  484  sudo apt install python3
+  485  sudo apt install pip3
+  486  sudo apt install pip
+  487  cd /home/ubuntu/CSCI515/exercises/2_13_25
+  488  fastfetch
+  489  flex add_and_mult.l && bison -d add_and_mult.y && g++ -std=c++20 *.c
+  490  flex subtract.l && bison -d subtract.y && g++ -std=c++20 *.c
+  491  echo "9 - 5 - 4" | ./a.out
+  492  make
+  493  flex subtract.l && bison -d subtract.y && g++ -std=c++20 *.c
+  494  echo "9 - 5 - 4" | ./a.out
+  495  flex subtract.l && bison -d subtract.y && g++ -std=c++20 *.c
+  496  echo "9 - 5 - 4" | ./a.out
+  497  cd CSCI515/p1
+  498  ls
+  499  bison -d gpl.y
+  500  bison -d gpl.y -Wcounterexamples
+  501  bison -d gpl.y
+  502  bison -d gpl.y -Wcounterexamples
+  503  bison -d gpl.y
+  504  make
+  505  bison -vd gpl.y
+  506  bison -v gpl.y
+  507  bison -d gpl.y
+  508  bison -d gpl.y -Wcounterexample
+  509  bison -d gpl.y
+  510  bison -d gpl.y -Wcounterexample
+  511  make
+  512  bison -vd gpl.y
+  513  make
+  514  maek
+  515  make
+  516  bison -vd gpl.y
+  517  make
+  518  history
+  519  flex gpl.l
+  520  make
+  521  gt
+  522  gt -all
+  523  ls ../
+  524  ../bin/gt
+  525  ./gpl tests/t001.gpl
+  526  ../bin/gt
+  527  ../bin/vd
+  528  make
+  529  ../bin/gt
+  530  gpl
+  531  ./gpl
+  532  ./gpl tests/t001.gpl
+  533  ../bin/gt
+  534  ../bin/vde
+  535  ../bin/vde 1
+  536  ../bin/vde 2
+  537  ../bin/gt 1
+  538  ./gpl tests/t001.gpl
+  539  claer
+  540  cleare
+  541  clear
+  542  ./gpl tests/t001.gpl
+  543  ../bin/gt -all
+  544  ../bin/vd 1
+  545  make
+  546  ../bin/gt -all
+  547  cd ../
+  548  cd src/
+  549  cd p1
+  550  make
+  551  ../bin/gt -all
+  552  ../../bin/gt -all
+  553  ../../bin/vd 2
+  554  ./gpl -stdin
+  555  ./gpl 1 -stdin
+  556  ./gpl tests/t001.gpl -stdin
+  557  ./gpl tests/t001.gpl
+  558  ./gpl tests/t002.gpl
+  559  make
+  560  ./gpl tests/t002.gpl
+  561  ./gpl tests/t001.gpl
+  562  mak3
+  563  make
+  564  make clean
+  565  make
+  566  ./gpl tests/t001.gpl
+  567  ./gpl tests/t002.gpl
+  568  ../../bin/vd 2
+  569  ../../bin/vd 1
+  570  ../bin/gt -all
+  571  ../../bin/gt -all
+  572  make
+  573  make clean
+  574  make
+  575  ../../bin/gt -all
+  576  ../../bin/vd 1
+  577  make
+  578  make clean
+  579  make
+  580  ../../bin/vd 1
+  581  ../../bin/gt -all
+  582  cd CSCI430
+  583  ls
+  584  git clone https://github.com/AlphaIru/HelloWorld.git
+  585  cd HelloWorld/
+  586  ls
+  587  mkdir .github
+  588  cd mkdir
+  589  cd .github
+  590  ls
+  591  mkdir workflows
+  592  cd workflows/
+  593  touch helloworld.yml
+  594  code helloworld.yml 
+  595  cd ../../
+  596  git add .
+  597  git commit -m "added yaml file"
+  598  git psuh
+  599  git push
+  600  git add .
+  601  git commit -m "Added a status Badge"
+  602  git push
+  603  /home/ubuntu/CSCI430/roomiebuddy/.env/bin/python3.12 /home/ubuntu/CSCI430/roomiebuddy/main.py
+  604  git add .
+  605  /home/ubuntu/CSCI430/roomiebuddy/.env/bin/python3.12 /home/ubuntu/CSCI430/roomiebuddy/backend/main.py
+  606  make
+  607  ../../bin/gt
+  608  make
+  609  make clean
+  610  make
+  611  ../../bin/gt -all
+  612  ./gpl tests/t002.gpl
+  613  make clean
+  614  maek
+  615  make
+  616  ./gpl tests/t002.gpl
+  617  make clean
+  618  make
+  619  ./gpl tests/t002.gpl
+  620  make clean
+  621  make
+  622  ./gpl tests/t002.gpl
+  623  make
+  624  make clean
+  625  make
+  626  ./gpl tests/t002.gpl
+  627  make
+  628  make clean
+  629  make
+  630  ./gpl tests/t002.gpl
+  631  make clean
+  632  make
+  633  ../../bin/gt -all
+  634  ./gpl tests/t002.gpl
+  635  std::cout << yytext << "\n"; std::cerr << "yytext=>" << yytext << "<=\n"; make clean
+  636  make clean
+  637  make 
+  638  ./gpl tests/t002.gpl
+  639  make clean
+  640  make
+  641  ./gpl tests/t002.gpl
+  642  ../../bin/gt -all
+  643  make clean
+  644  make
+  645  ../../bin/gt -all
+  646  make clean
+  647  make
+  648  ../../bin/gt -all
+  649  make
+  650  make clean
+  651  make
+  652  ../../bin/gt -all
+  653  make
+  654  make clean
+  655  make
+  656  ../../bin/gt -all
+  657  make
+  658  make clean
+  659  make
+  660  ../../bin/gt -all
+  661  make
+  662  make clean
+  663  make
+  664  ../../bin/gt -all
+  665  ./gpl tests/t002.gpl
+  666  ./gpl tests/t001.gpl
+  667  ./gpl tests/t002.gpl
+  668  make
+  669  make clean
+  670  make
+  671  ./gpl tests/t002.gpl
+  672  ../../bin/gt -all
+  673  make
+  674  make clean
+  675  make
+  676  ../../bin/gt -all
+  677  make clean
+  678  make
+  679  ../../bin/gt -all
+  680  make clean
+  681  make
+  682  ../../bin/gt -all
+  683  cd ../../
+  684  git add .
+  685  git commit -m "finished p1"
+  686  git push
+  687  python /home/ubuntu/.vscode-server/extensions/ms-python.python-2025.0.0-linux-x64/python_files/printEnvVariablesToFile.py /home/ubuntu/.vscode-server/extensions/ms-python.python-2025.0.0-linux-x64/python_files/deactivate/bash/envVars.txt
+  688  docker build -t cpp-container .
+  689  docker run -it cpp-containe
+  690  docker build -t cpp-container 
+  691  docker build -t cpp-container
+  692  docker run -it cpp-container
+  693  git add .
+  694  git commit -m "fixed #69"
+  695  git push origin doneBug
+  696  git checkout main
+  697  git pull origin main
+  698  git checkout -b "CICD"
+  699  mkdir .github/workspaces
+  700  mkdir .github
+  701  cd .github
+  702  mkdir workflows
+  703  cd workflows
+  704  myFave.yml
+  705  touch myFave.yml
+  706  code myFave.yml 
+  707  cd ../../
+  708  git add .
+  709  git commit -m "fixed #68"
+  710  git push origin CICD
+  711  git checkout -b "main"
+  712  git checkout "main"
+  713  git pull origin main
+  714  git checkout -b "badge"
+  715  code README.md 
+  716  git add .
+  717  git commit -m 
+  718  git commit -m "Added Status Badge"
+  719  git push origin badge
+  720  git checkout main
+  721  git pull origin main
+  722  ls
+  723  cd 
+  724  cd CSCI430/
+  725  cd
+  726  ls
+  727  cd CSCI430
+  728  ls
+  729  git clone https://github.com/AlphaIru/MyFave.git
+  730  ls
+  731  cd MyFave/
+  732  ls
+  733  git checkout -b "Done Bug"
+  734  git checkout -b doneBug
+  735  code d.
+  736  code .
+  737  exit
+  738  cd CSCI515
+  739  ls
+  740  htop
+  741  sudo  apt install htop
+  742  htop
+  743  python /home/ubuntu/.vscode-server/extensions/ms-python.python-2025.0.0-linux-x64/python_files/printEnvVariablesToFile.py /home/ubuntu/.vscode-server/extensions/ms-python.python-2025.0.0-linux-x64/python_files/deactivate/bash/envVars.txt
+  744  cd CSCI515
+  745  ls
+  746  cd personal/
+  747  ls
+  748  cp Hugo_Tanaka_a02.gpl Hugo_Tanaka_a02_edited.gpl 
+  749  nano Hugo_Tanaka_a02_edited.gpl 
+  750  cd ~
+  751  cd CSCI430
+  752  cd roomiebuddy/
+  753  git pull origin main
+  754  history
+  755  history > history.txt
