@@ -50,7 +50,7 @@ class _NavscreenState extends State<Navscreen> {
           });
         },
         backgroundColor:Colors.transparent,
-        color: Colors.lightBlue,
+        color: Colors.greenAccent,
       ),
       body: pages[selectedIndex]
     );
