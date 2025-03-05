@@ -2,7 +2,7 @@ import 'package:curved_navigation_bar/curved_navigation_bar.dart';
 import 'package:flutter/material.dart';
 
 import 'pages/home_page.dart';
-import 'pages/calender_page.dart';
+import 'pages/calendar_page.dart';
 import 'pages/add_taskpage.dart';
 import 'pages/add_roomate_page.dart';
 import 'pages/settings_page.dart';
@@ -17,7 +17,7 @@ class Navscreen extends StatefulWidget {
 class _NavscreenState extends State<Navscreen> {
   final pages = [
     HomePage(),
-    CalenderPage(),
+    CalendarPage(),
     AddTaskpage(),
     AddRoomatePage(),
     SettingsPage(),
@@ -50,7 +50,7 @@ class _NavscreenState extends State<Navscreen> {
           });
         },
         backgroundColor:Colors.transparent,
-        color: Colors.lightBlue,
+        color: Colors.greenAccent,
       ),
       body: pages[selectedIndex]
     );
